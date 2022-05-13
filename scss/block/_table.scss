@@ -1,0 +1,49 @@
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+table {
+  width: 90%;
+  margin-top: 100px;
+  border-collapse: collapse;
+  padding: 5px;
+  border: 2px solid rgb(115, 111, 111);
+  font-family: "Montserrat";
+  text-align: start;
+}
+
+.table__inner {}
+
+
+.table__table-head {
+  padding: 30px 20px;
+  border: 2px solid rgb(115, 111, 111);
+  font-family: "Montserrat";
+  text-align: center;
+
+}
+
+.table__table-body {
+  padding: 20px;
+  border: 2px solid rgb(115, 111, 111);
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+.table__table-body-footer {
+  padding: 20px;
+  border: 2px solid rgb(115, 111, 111);
+  font-family: "Montserrat";
+  font-size: 18px;
+  text-align: center;
+}
+
+.table__table-head-next {
+  width: 50px;
+}
+
+.table__table-body-continue {
+  padding: 10px;
+}
